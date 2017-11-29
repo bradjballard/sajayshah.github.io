@@ -4,7 +4,7 @@ This is the first in a series of blog posts on the numerous projects I've embark
  2. Mistakes I made.
  3. The takeaways that made me a better software engineer.
 
-**Anecdote.** I've always been a fan of iOS, lurking on the jailbreak scene since the days of iOS 2.1.2 which came with my iPod Touch 2G. I still remember the heart attack I got thinking I bricked ```myPod``` through misuse of a boot logo mod. Fear of being deemed irresponsible with expensive tech and some ```DFU``` magic brought my precious back to life.
+**Anecdote.** I've always been a fan of iOS, lurking on the jailbreak scene since the days of iOS 2.1.2 on my iPod Touch 2G. I still remember the heart attack I got thinking I bricked ```myPod``` through misuse of a boot logo mod. Fear of being deemed irresponsible with expensive tech and some ```DFU``` magic brought my precious back to life.
 
 
 [Ordin Task Manager is the first software application I built.](https://itunes.apple.com/us/app/ordin-task-manager/id1080540755?mt=8)
@@ -23,17 +23,17 @@ So I did just that. I purchased the [Big Nerd Ranch Guide on iOS Programming](ht
 **Mistakes**
 
  1. [OrdinListViewController.m](https://github.com/sajayshah/OrdinApp/blob/master/Ordin/OrdinListViewController.m)
- 2. commits on Github.
- 3. No tests. Well kind of. See 1.
+ 2. No tests. Well kind of. See 1.
+ 3. commits on Github.
  4. Abandoned design patterns.
 
 **Takeaways**
 
 > I loved every minute I spent on this project because I made it for me.
 
-With software there's a prevalent problem with overfitting solutions. Software engineers often feel pressure to add bells and whistles fearing users will leave their ecosystem for the next shiny thing. The value proposition gets replaced with "***We need to increase our daily active users.***"
+With software there's this prevalent problem of overfitting solutions. Software engineers often feel pressure to add bells and whistles fearing users will leave their ecosystem for the next shiny thing. The value proposition gets replaced with "***We need to increase our daily active users.***"
 
-I never moved forward cloud integration, in-app advertising, or in-app purchases. Ordin solved my problem and proved useful throughout my college career. I still pay my yearly Apple Developer fee to keep it on the App Store because I believe in what Ordin represents:
+I never moved forward with cloud integration, in-app advertising, or in-app purchases. Ordin solved my problem and proved useful throughout my college career. I still pay my yearly Apple Developer fee to keep it on the App Store because I believe in what Ordin represents:
 
 Software engineering is about solving problems and I solved mine.
 -----------------------------------------------------------------
