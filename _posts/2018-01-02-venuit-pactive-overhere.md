@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: Venuit, Pactive, OverHere
 ---
 
